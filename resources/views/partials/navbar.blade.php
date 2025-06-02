@@ -18,7 +18,7 @@
             <a href="#blog" class="text-gray-700 hover:text-primary font-medium">Blog</a>
             <a href="#about" class="text-gray-700 hover:text-primary font-medium">About</a>
             @can('admin')
-                <a href="/dashboard" class="text-gray-700 hover:text-primary font-medium">Admin</a>
+                <a href="/dashboard" class="text-gray-700 hover:text-primary font-medium">Admiin</a>
             @endcan
         </nav>
 
